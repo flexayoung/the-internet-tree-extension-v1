@@ -1,0 +1,30 @@
+html {
+  min-height: 250px;
+  min-width: 250px;
+  border-radius: 25px;
+  background-image:url("img/leaves.jpg");
+}
+body{
+  margin:0.1cm 0.5cm 0.5cm 0.5cm;
+}
+.info {
+  display: block;
+  align-items: center;
+  justify-content: space-between;
+}
+p{
+  font-weight: bold;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  font-weight: bolder;
+  font-size:medium;
+}
+a:hover{
+  cursor: pointer;
+  color:grey;
+}
